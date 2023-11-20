@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\bin\Debug\donanim bilgisi.exe.config
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\bin\Debug\donanim bilgisi.exe
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\bin\Debug\donanim bilgisi.pdb
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim bilgisi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim bilgisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim_bilgisi.Form1.resources
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim_bilgisi.Properties.Resources.resources
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim bilgisi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim bilgisi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim bilgisi.exe
+C:\Users\User\source\repos\donanim bilgisi\donanim bilgisi\obj\Debug\donanim bilgisi.pdb
